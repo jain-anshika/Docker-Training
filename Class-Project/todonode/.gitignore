@@ -1,0 +1,6 @@
+# npm package-lock file (optional, can be kept for reproducibility)
+package-lock.json
+package.json
+
+# Node modules
+/node_modules/
