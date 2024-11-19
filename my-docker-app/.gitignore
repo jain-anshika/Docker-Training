@@ -1,0 +1,151 @@
+# Node.js related
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Logs
+logs/
+*.log
+*.log.*
+pids/
+*.pid
+*.seed
+*.pid.lock
+*.gz
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Dependency directories
+bower_components/
+jspm_packages/
+
+# Build outputs
+build/
+dist/
+out/
+.next/
+.nuxt/
+.svelte-kit/
+.sapper/
+
+# React related
+.DS_Store
+*.lock-wscript
+*.tsbuildinfo
+.eslintcache
+.parcel-cache/
+.cache/
+*.tgz
+.vscode/
+.vscode-test/
+.idea/
+.vscode-test/
+
+# Test coverage
+coverage/
+.nyc_output/
+coverage-final.json
+
+# Production files
+public/static/
+*.map
+
+# Docker related
+docker-compose.override.yml
+docker-compose.prod.yml
+docker-compose.test.yml
+.dockerignore
+Dockerfile*
+docker-compose.yml
+docker-compose.dev.yml
+db_data/
+node_modules/
+dockerfiles/
+docker-compose.ci.yml
+docker-compose*.yml
+
+# MongoDB data files and logs
+**/data/
+*.db
+dump/
+db_dump/
+
+# OS generated files
+Thumbs.db
+.DS_Store
+
+# Editor related files
+*.sublime-workspace
+*.sublime-project
+
+# MacOS file system
+.AppleDouble
+
+# TypeScript
+*.tsbuildinfo
+
+# IDE files
+/.idea/
+/.project/
+/.ensime_cache/
+/.vscode/
+
+# npm global cache directory
+.npm
+
+# Tern plugin
+.tern-port
+nodejs.debug
+
+# VSCode files
+.vscode
+
+# IDE
+/.vscode/
+/.idea/
+test/fixtures/coverage/
+.project
+.ensime_cache
+project/**
+
+# Coverage
+node_modules/
+.idea/
+yarn.lock
+node_modules
+
+# MacOS file system
+.AppleDouble
+
+# GCP deployment logs
+deployment/
+deployments/
+out/
+
+# MongoDB Data dump files
+**/data/db/dump/
+
+# CI/CD files
+.env.dev
+.env.production
+docker-compose.test.yml
+docker-compose.override.yml
+
+# SASS
+.sass-cache
+
+# MongoDB backup
+logs/
+env.test
+logs/database.log
+**/yarn-debug.log
+logs/
+yarn-error.log
+.env
+.vscode
+.Dockerfile
+test/
